@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science and Design
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on My game 'Dreamland'
-- 📫 How to reach me =2happycompany@gmail.com
+- 📫 How to reach me 02happycompany@gmail.com
 
 <!---
 happy262/happy262 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
