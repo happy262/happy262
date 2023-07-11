@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @happy262
-- 👀 I’m interested in Computer Science and Design
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Computer Science and Design.
+- 🌱 I’m currently using Python, Delphi, Java
 - 💞️ I’m looking to collaborate on My game 'Dreamland'
 - 📫 How to reach me 02happycompany@gmail.com
 
